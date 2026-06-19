@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the Zenodo record for the relevant version."
+title: "Governed TwinLoop Orchestration: A Human-Governed Two-Loop Pattern for Controlled AI-Agent Workflows"
+type: generic
+authors:
+  - family-names: "Sharifi"
+    given-names: "Mohammad"
+doi: "10.5281/zenodo.20766335"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20766334"
+    description: "Concept DOI for all versions"
+license: "CC-BY-NC-ND-4.0"
+url: "https://doi.org/10.5281/zenodo.20766335"
+abstract: >-
+  Public documentation of a human-governed two-loop pattern for controlled
+  AI-agent workflows. The work describes conceptual roles, boundaries,
+  reporting, review, and stop gates; it is not a software release.
+keywords:
+  - "AI agents"
+  - "human governance"
+  - "workflow orchestration"
+  - "human oversight"
+  - "safety gates"
