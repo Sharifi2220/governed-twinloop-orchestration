@@ -1,8 +1,8 @@
 # Governed TwinLoop Orchestration
 
-**A Human-Governed Two-Loop Pattern for Controlled AI-Agent Workflows**
+**A Local-First, Human-Governed Two-Loop Pattern for Controlled AI-Agent Workflows**
 
-Governed TwinLoop Orchestration is a documentation-only reference for organizing bounded AI-agent work under explicit human authority. One loop performs a scoped task and reports; a separate governance loop reviews the report and decides whether to approve, revise, or stop.
+Governed TwinLoop Orchestration is a documentation-only reference for organizing bounded AI-agent work under explicit human authority. Work is performed and reviewed in a bounded local context first; external repositories or publication channels contain only reviewed and approved snapshots.
 
 This repository contains public conceptual documentation. It is not a software release, deployment package, production playbook, or disclosure of a private implementation.
 
@@ -34,10 +34,10 @@ Machine-readable citation metadata is available in [`CITATION.cff`](CITATION.cff
 
 ## Public scope
 
-The repository may describe roles, control points, review outcomes, generic templates, and illustrative examples. It must not contain exact private prompts, detailed automation rules, production playbooks, customer-specific workflows, hidden scoring logic, credentials, private configuration, secrets, or operational deployment instructions.
+The repository may describe roles, control points, review outcomes, generic templates, and illustrative examples. It must not contain exact private prompts, detailed automation rules, production playbooks, customer-specific workflows, hidden scoring logic, credentials, private configuration, secrets, internal working states, or operational deployment instructions.
 
 See the [public/private boundary](docs/public-private-boundary.md) before proposing content.
 
 ## Status
 
-This is public documentation of a governance concept. Any future extension remains subject to human review, the repository boundary, and the applicable license.
+This is public documentation of a governance concept. Any future extension remains subject to human review, the repository boundary, and the applicable license. Repository updates do not automatically create a new archival or DOI version.
